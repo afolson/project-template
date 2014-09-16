@@ -1,0 +1,16 @@
+{
+  "name": "tatl",
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "typicons": "*"
+  },
+  "homepage": "http://github.com/changeme/repo",
+  "private": true,
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ],
+  "authors": [
+  "CHANGEME", "CHANGE ME <change@me.com>"
+  ]
+}
